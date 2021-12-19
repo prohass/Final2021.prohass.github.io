@@ -69,10 +69,11 @@ section,
 
 
 .TitoGGPLOT1{
-    width: 60%;
-    margin: 20px 20%;
-    height: 500px;
-    
+    width: 50%;
+    margin: 20px 25%;
+    height: 450px;
+    position: relative;
+    top: 10px;
 }
 
 @media (min-height: 700px){
